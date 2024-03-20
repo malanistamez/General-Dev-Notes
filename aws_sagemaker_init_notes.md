@@ -46,7 +46,7 @@ Keep the rest of the settings as default and create your S3 bucket!
 
 1. Click Next and select all the options as mentioned below. Don’t select more than 10 roles — AWS does not allow it.
 2. Add the bucket name you created in all of the configuration fields. First, enter S3 bucket name.
-3. Next, enter the S3 bucket again and the URI that you copied. We have to convert the URI that we have into ARN format. Here is mine: `arn:aws:ecr:ap-southeast-2:038365619140:repository/mlopsanish`
+3. Next, enter the S3 bucket again and the URI that you copied. We have to convert the URI that we have into ARN format. Example: `arn:aws:ecr:ap-us-east-1:038365619140:repository/mlopssample`
 4. Next, enter your S3 bucket again and primary for the default workgroup.
 5. Click the next button.
 
