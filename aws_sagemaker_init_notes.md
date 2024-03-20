@@ -1,6 +1,7 @@
 # AWS SageMaker: Sign In, Set up SageMaker Studio and Use Jupyter Notebook Instance
 
 Author: Mariana Alanis
+
 Date: March, 2024
 
 ## Sign Up for AWS Account
