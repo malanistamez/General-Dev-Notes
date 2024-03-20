@@ -34,10 +34,7 @@ Keep the rest of the settings as default and create your S3 bucket!
 
 ## Set up SageMaker on AWS
 
-1. Your Home Console will look something like this:
-
-   ![Home Console](<link to image>)
-
+1. Go to your Home Console
 2. Search for SageMaker in the search bar and select the first option.
 3. Once you are on the Amazon SageMaker page, select "Getting Started" from the left pane.
 
